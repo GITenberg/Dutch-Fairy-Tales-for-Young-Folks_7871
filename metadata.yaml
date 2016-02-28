@@ -1,0 +1,44 @@
+_repo: Dutch-Fairy-Tales-for-Young-Folks_7871
+creator:
+  author:
+    agent_name: Griffis, William Elliot
+    aliases:
+    - Griffis, W. E. (William Elliot)
+    - Griffis, William Eliot
+    birthdate: 1843
+    deathdate: 1928
+    gutenberg_agent_id: '2568'
+    url: http://www.gutenberg.org/2009/agents/2568
+    wikipedia: http://en.wikipedia.org/wiki/William_Elliot_Griffis
+description: Cover; Front matter; Title page; Copyright page; Body matter; The Entangled
+  Mermaid; The Boy Who Wanted More Cheese; The Princess With Twenty Petticoats; The
+  Cat And The Cradle; Prince Spin Head And Miss Snow White; The Boar With The Golden
+  Bristles; The Ice King And His Wonderful Grandchild; The Elves And Their Antics;
+  The Kabouters And The Bells; The Woman With Three Hundred And Sixty-Six Children;
+  The Oni On His Travels; The Legend Of The Wooden Shoe; The Curly-Tailed Lion; Brabo
+  And The Giant; The Farm That Ran Away And Came Back; Santa Klaas And Black Pete;
+  The Goblins Turned To Stone.
+gutenberg_bookshelf:
+- Folklore
+- Children's Myths, Fairy Tales, etc.
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7871'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales -- Netherlands'
+- !lcc 'PZ'
+tableOfContents: The entangled mermaid -- The boy who wanted more cheese -- The princess
+  with twenty petticoats -- The cat and the cradle -- Prince Spin Head and Miss Snow
+  White -- The boar with the golden bristles -- The ice king and his wonderful grandchild
+  -- The elves and their antics -- The kabouters and the bells -- The woman with three
+  hundred and sixty-six children -- The oni on his travels -- The legend of the wooden
+  shoe -- The curly-tailed lion -- Brabo and the giant -- The farm that ran away and
+  came back -- Santa Klaas and Black Pete -- The goblins turned to stone -- The mouldy
+  penny -- The golden helmet -- When wheat worked woe -- Why the stork loves Holland.
+title: Dutch Fairy Tales for Young Folks
+url: http://www.gutenberg.org/ebooks/7871
