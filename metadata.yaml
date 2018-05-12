@@ -1,4 +1,8 @@
 _repo: Dutch-Fairy-Tales-for-Young-Folks_7871
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Griffis, William Elliot
@@ -18,6 +22,8 @@ description: Cover; Front matter; Title page; Copyright page; Body matter; The E
   The Oni On His Travels; The Legend Of The Wooden Shoe; The Curly-Tailed Lion; Brabo
   And The Giant; The Farm That Ran Away And Came Back; Santa Klaas And Black Pete;
   The Goblins Turned To Stone.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7871#Dutch-Fairy-Tales-for-Young-Folks
 gutenberg_bookshelf:
 - Folklore
 - Children's Myths, Fairy Tales, etc.
